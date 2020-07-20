@@ -7,4 +7,4 @@ Features:
 - Red nose can be made invisible or visible on tapping on screen
 - The filter is suitable for both Instagram and Facebook Platform
 
-The Filter Project has been developed as part of the online course on Augmented Reality Foundation by Facebook School of Innovation and SV.CO
+The Filter Project has been developed as part of the Final Submission Assignment for online course on Augmented Reality Foundation offered by Facebook School of Innovation and SV.CO
